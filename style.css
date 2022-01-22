@@ -1,0 +1,21 @@
+#container{
+    width: 390px;
+    margin: auto;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+
+}
+#i{
+   width: 100%; 
+    box-sizing: border-box;
+    
+}
+#lista{
+    text-align: left;
+    background-color: white;
+}
+li{
+    list-style: decimal;
+}
